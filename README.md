@@ -1,7 +1,8 @@
-# README Generator 
+# README Generator
 
   ## License
-  ![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen)<br>
+  ![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen)
+  <br>
   https://opensource.org/licenses/Apache-2.0
 
   ## Description
@@ -15,6 +16,7 @@
   * [Contributing](#Contributing)
   * [Tests](#Tests)
   * [Questions](#Questions)
+  * [Video](#Video)
 
   ## Installation
   Install using 'npm i'
@@ -31,3 +33,6 @@
   ## Questions
   * GitHub: https://github.com/hiashley
   * Email: hiashleyyu@gmail.com
+
+  ## Video 
+  [Video](https://drive.google.com/file/d/1LpZt24lUifwpL4mXUkfLaNK8vjZBNF2s/view)
